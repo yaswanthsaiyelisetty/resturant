@@ -120,6 +120,14 @@ Narasaraopet, Andhra Pradesh 522601
 
 ---
 
+## 👨‍💻 Developer
+
+Designed & Developed by **[Yaswanth Sai Yelisetty](https://github.com/yaswanthsaiyelisetty)**
+
+[![GitHub](https://img.shields.io/badge/GitHub-yaswanthsaiyelisetty-181717?style=for-the-badge&logo=github)](https://github.com/yaswanthsaiyelisetty)
+
+---
+
 ## 📄 License
 
 © 2026 Eat Heat The Bamboo Restaurant. All rights reserved.
@@ -127,5 +135,6 @@ Narasaraopet, Andhra Pradesh 522601
 ---
 
 <p align="center">
+  Designed & Developed by <strong>Yaswanth Sai Yelisetty</strong><br>
   Crafted with ❤️ and 🌶️ in Narasaraopet, Andhra Pradesh
 </p>
